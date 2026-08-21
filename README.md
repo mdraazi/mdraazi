@@ -40,7 +40,7 @@ It transforms customer activity, opportunities, quotations, invoices, payment co
 
 I'm currently developing the full revenue action loop:
 
-**Detect ? Prioritize ? Act ? Resolve ? Clear**
+**Detect -> Prioritize -> Act -> Resolve -> Clear**
 
 Future work includes data migration and integrations for businesses already using systems such as Tally, Zoho, and SAP.
 
